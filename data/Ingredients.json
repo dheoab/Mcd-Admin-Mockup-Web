@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "itemId": 1,
+    "name": "Big Mac Bun"
+  },
+  {
+    "id": 2,
+    "itemId": 1,
+    "name": "100% Beef Patty"
+  },
+  {
+    "id": 3,
+    "itemId": 1,
+    "name": "Shredded Lettuce"
+  },
+  {
+    "id": 4,
+    "itemId": 1,
+    "name": "Big Mac Sauce"
+  },
+  {
+    "id": 5,
+    "itemId": 1,
+    "name": "Pasteurized Process American Cheese"
+  },
+  {
+    "id": 6,
+    "itemId": 1,
+    "name": "Pickle Slices"
+  },
+  {
+    "id": 7,
+    "itemId": 1,
+    "name": "Onion"
+  },
+
+  {
+    "id": 8,
+    "itemId": 2,
+    "name": "Quarter Pound Bun"
+  },
+  {
+    "id": 9,
+    "itemId": 2,
+    "name": "100% Beef Patty"
+  },
+  {
+    "id": 10,
+    "itemId": 2,
+    "name": "Ketchup"
+  },
+  {
+    "id": 11,
+    "itemId": 2,
+    "name": "Pasteurized Process American Cheese"
+  },
+  {
+    "id": 12,
+    "itemId": 2,
+    "name": "Pickle Slices"
+  },
+  {
+    "id": 13,
+    "itemId": 2,
+    "name": "Onion"
+  },
+  {
+    "id": 14,
+    "itemId": 2,
+    "name": "Mustard"
+  },
+  {
+    "id": 15,
+    "itemId": 3,
+    "name": "Oreo Cookie"
+  },
+  {
+    "id": 16,
+    "itemId": 3,
+    "name": "Milk"
+  },
+  {
+    "id": 17,
+    "itemId": 4,
+    "name": "Chicken "
+  },
+  {
+    "id": 18,
+    "itemId": 4,
+    "name": "Flour "
+  }
+]
